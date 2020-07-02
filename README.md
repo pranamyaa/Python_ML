@@ -1,3 +1,3 @@
 # Python_ML
-Jupyter Notebook for the basic ML projects done in second semester of Masters of Data Science in RMIT using Python.
+Jupyter Notebook and HTML files for the basic ML projects done using Python during postgraduate studies in Data Science in RMIT.
 
